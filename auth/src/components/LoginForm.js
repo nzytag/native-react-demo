@@ -23,7 +23,7 @@ class LoginForm extends Component {
 
       <CardSection>
         <Button>
-          Log In motherfucker        
+          Log In       
         </Button>
       </CardSection>
     </Card>
